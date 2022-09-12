@@ -32,9 +32,11 @@ Para a análise, foi utilizado o software estatístico R.
 
 ## Resultados 🔚
 ------------------------------------------------------------------------------------------
-A partir da apresentação disponível abaixo, podemos verificar os resultados e insights gerados!!!
+A partir da apresentação disponível abixo, podemos verificar os resultados e insights geradosa : 
+Apresentação e Relatório
 
 [analise_temperatura_planeta_terra (1).pdf](https://github.com/isabelapompei/analise_temperatura_planeta_terra/files/9551865/analise_temperatura_planeta_terra.1.pdf)
-https://user-images.githubusercontent.com/83434256/189760182-33724a9f-5b88-4dc4-8d4a-1a50709405ae.mp4
+https://user-images.githubusercontent.com/83434256/189760182-33724a9f-5b88-4dc4-8d4a-1a50709405ae.mp4[relatorio_series_temporais.pdf](https://github.com/isabelapompei/analise_temperatura_planeta_terra/files/9551933/relatorio_series_temporais.pdf)
+
 
 
